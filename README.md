@@ -14,6 +14,10 @@ The front end of the app provides a user-friendly interface for interacting with
 
 The backend of the app provides the functionality for tracking user activity and progress, providing personalized challenges and rewards, and managing user data.
 
+## Game
+
+There is also the Unity 3d part which has its own repository.
+
 ## Models
 
 The Legend of Evexia app uses a machine learning model to predict user emotions. The model is a random forest classifier, which is a type of ensemble learning algorithm that uses multiple decision trees to make predictions.
